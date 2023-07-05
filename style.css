@@ -1,0 +1,54 @@
+body{
+    background: linear-gradient(90deg, #6e6e6e 0%, #ffffff 100%); 
+}
+h1{
+    color: #ffffff;
+    text-shadow: 6px 6px 10px black;
+    font-size:500%;;
+    margin-top: 1%;
+    text-align: center;
+}
+ol{
+    color: #ffffff;
+    text-shadow: 3px 3px 10px black;
+    text-align: left;
+    margin-left: 10px;
+    font-size: 20px;
+}
+p{
+    color: #ffffff;
+    text-shadow: 3px 3px 10px black;
+    text-align: left;
+    margin-left: 10px;
+    font-size: 20px;
+}
+h2{
+    color: #ffffff;
+    text-shadow: 3px 3px 10px black;
+    text-align: left;
+    margin-left: 10px;
+    font-size: 20px;
+}
+.mybutton{
+    margin-top: 1%;
+    margin-left: 1%;
+    background-color: #6e6e6e;
+}
+.szoveg{
+cursor: default;
+text-align: center;
+text-shadow: none;
+border-radius: 20px;
+padding-left: 10px;
+padding-top: 10px;
+padding-bottom: 10px;
+padding-right: 10px;
+margin-left: 20%;
+margin-right: 20%;
+margin-top: 5%;
+background-color: rgb(70, 70, 70);
+box-shadow: 6px 6px 10px black;
+}
+.képek{
+    border-radius: 20px;
+}
