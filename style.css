@@ -8,6 +8,9 @@ h1{
     margin-top: 1%;
     text-align: center;
 }
+.képkatt{
+    font-size: 200%;
+}
 ol{
     color: #ffffff;
     text-shadow: 3px 3px 10px black;
@@ -36,13 +39,10 @@ h2{
 }
 .szoveg{
 cursor: default;
-text-align: center;
+text-align: left;
 text-shadow: none;
 border-radius: 20px;
-padding-left: 10px;
-padding-top: 10px;
-padding-bottom: 10px;
-padding-right: 10px;
+padding: 20px;
 margin-left: 20%;
 margin-right: 20%;
 margin-top: 5%;
@@ -50,5 +50,55 @@ background-color: rgb(70, 70, 70);
 box-shadow: 6px 6px 10px black;
 }
 .képek{
-    border-radius: 20px;
+    display: inline-block;
+    cursor:grab;
+    filter: drop-shadow( 15px 15px 20px black);
+    border-radius: 30% 15px;
+    margin-left: 2.5%;
+    margin-right: 3%;
+}
+.aaa{
+    filter: drop-shadow(30px 20px 30px black);
+    width: 200px;
+    cursor:help;
+    margin-left: 43%;
+}
+.sor{
+    display: flex;
+}
+.ár1{
+    text-shadow: none;
+    background-color: none;
+    margin-left: 90px;
+    color: red;
+    margin-right: 220px;
+}
+.ár2{
+    text-shadow: none;
+    background-color: none;
+    color: red;
+}
+.ár3{
+    text-shadow: none;
+    background-color: none;
+    margin-left: 230px;
+    color: red;
+}
+.ár4{
+    text-shadow: none;
+    background-color: none;
+    margin-left: 230px;
+    color: red;
+}
+.ár5{
+    text-shadow: none;
+    background-color: none;
+    margin-left: 245px;
+    color: red;
+}
+.ár6{
+    text-shadow: none;
+    background-color: none;
+    margin-left: 240px;
+    color: red;
 }
